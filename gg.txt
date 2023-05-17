@@ -1,0 +1,6 @@
+hr-vacancy -fill referel form-interview process-status-candidate
+entities-hr head - candidate
+(passanger)-id,name,contact no ,date
+login-ticket reservation-date journey place-ticket cancellation- view-payment - (admin),
+pmg.sys-student-login-registeration-supervision-chat-feedback- timing-evaluation,students-supervision.
+en-user reg. login
